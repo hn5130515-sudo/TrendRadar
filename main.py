@@ -2226,34 +2226,34 @@ def render_feishu_content(
     return text_content
 
 def render_dingtalk_content(report_data, report_type, update_info=None, mode="daily"):
-    """渲染钉钉/企微消息内容（修复版）"""
+    """渲染钉钉/企微消息内容（兼容原数据结构版）"""
     content = f"# 📰 最新热点报告 - {report_type}\n\n"
     
     # 安全处理更新时间
     if update_info and isinstance(update_info, dict) and 'time' in update_info:
         content += f"⏰ 更新时间：{update_info['time']}\n\n"
     else:
-        # 如果update_info格式不对，用当前时间兜底
         from datetime import datetime
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         content += f"⏰ 更新时间：{now}\n\n"
     
-    # 按平台分类，每条新闻带图+可点标题+摘要
-    for platform, items in report_data.items():
-        content += f"## 🎯 {platform.upper()}热点\n"
-        for item in items:
-            title = item['title']
-            url = item['url']
-            # 有图片就显示，没图不影响
-            if 'image' in item and item['image']:
-                content += f"![新闻图]({item['image']})\n"
-            # 标题做成可点击链接
-            content += f"### [{title}]({url})\n"
-            # 加摘要
-            if 'summary' in item and item['summary']:
-                content += f"📝 摘要：{item['summary']}\n\n"
-            else:
-                content += "\n"
+    # 兼容原数据结构
+    if "stats" in report_data:
+        for stat in report_data["stats"]:
+            platform = stat.get("platform", "未知平台")
+            content += f"## 🎯 {platform.upper()}热点\n"
+            titles = stat.get("titles", [])
+            for title_info in titles:
+                # 安全获取标题和链接
+                title = title_info.get("title", "无标题")
+                url = title_info.get("url", "#")
+                content += f"### [{title}]({url})\n"
+                # 安全获取摘要
+                summary = title_info.get("summary", "")
+                if summary:
+                    content += f"📝 摘要：{summary}\n\n"
+                else:
+                    content += "\n"
     return content
 
 
