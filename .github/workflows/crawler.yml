@@ -57,6 +57,77 @@ jobs:
           WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
           GITHUB_ACTIONS: true
         run: python main.py
+        - name: Push to WeWork/DingTalk with AI Summary
+  env:
+    WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
+    DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
+    DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+  run: |
+    python3 - << 'EOF'
+    import requests
+    import json
+    import os
+
+    # 读取爬虫生成的热点数据
+    try:
+        with open('hot_news.json', 'r', encoding='utf-8') as f:
+            hot_news = json.load(f)
+    except FileNotFoundError:
+        print("⚠️  热点数据文件未找到，跳过推送")
+        exit(0)
+
+    # AI总结函数（使用GitHub Copilot免费AI）
+    def get_summary(title, url):
+        prompt = f"请用100字以内总结这条新闻的核心内容，简洁明了：{title} {url}"
+        try:
+            res = requests.post(
+                "https://api.github.com/v3/copilot/chat/completions",
+                headers={"Authorization": f"token {os.environ['GITHUB_TOKEN']}"},
+                json={
+                    "model": "gpt-4o-mini",
+                    "messages": [{"role": "user", "content": prompt}]
+                },
+                timeout=10
+            )
+            res.raise_for_status()
+            return res.json()["choices"][0]["message"]["content"]
+        except Exception as e:
+            print(f"⚠️  AI总结失败：{e}")
+            return "（AI总结生成失败，直接查看原文）"
+
+    # 生成带摘要的推送内容
+    push_content = "📰 【AI总结热点】\n"
+    # 只取前5条热点，避免消息过长
+    for i, news in enumerate(hot_news[:5]):
+        summary = get_summary(news["title"], news["url"])
+        push_content += f"{i+1}. {news['title']}\n{summary}\n🔗 链接：{news['url']}\n\n"
+
+    # 推送到企业微信
+    if os.environ.get("WEWORK_WEBHOOK_URL"):
+        try:
+            wework_res = requests.post(
+                os.environ["WEWORK_WEBHOOK_URL"],
+                json={"msgtype": "text", "text": {"content": push_content}},
+                timeout=10
+            )
+            wework_res.raise_for_status()
+            print("✅ 推送企业微信成功")
+        except Exception as e:
+            print(f"❌ 推送企业微信失败：{e}")
+
+    # 推送到钉钉
+    if os.environ.get("DINGTALK_WEBHOOK_URL") and os.environ.get("DINGTALK_SECRET"):
+        try:
+            dingtalk_res = requests.post(
+                os.environ["DINGTALK_WEBHOOK_URL"],
+                json={"msgtype": "text", "text": {"content": push_content}},
+                timeout=10
+            )
+            dingtalk_res.raise_for_status()
+            print("✅ 推送钉钉成功")
+        except Exception as e:
+            print(f"❌ 推送钉钉失败：{e}")
+    EOF
 
       - name: Commit and push if changes
         run: |
