@@ -2226,12 +2226,17 @@ def render_feishu_content(
     return text_content
 
 def render_dingtalk_content(report_data, report_type, update_info=None, mode="daily"):
-    """渲染钉钉/企微消息内容（图文排版版）"""
+    """渲染钉钉/企微消息内容（修复版）"""
     content = f"# 📰 最新热点报告 - {report_type}\n\n"
     
-    # 添加更新时间，明确时效性
-    if update_info:
+    # 安全处理更新时间
+    if update_info and isinstance(update_info, dict) and 'time' in update_info:
         content += f"⏰ 更新时间：{update_info['time']}\n\n"
+    else:
+        # 如果update_info格式不对，用当前时间兜底
+        from datetime import datetime
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        content += f"⏰ 更新时间：{now}\n\n"
     
     # 按平台分类，每条新闻带图+可点标题+摘要
     for platform, items in report_data.items():
@@ -2242,9 +2247,9 @@ def render_dingtalk_content(report_data, report_type, update_info=None, mode="da
             # 有图片就显示，没图不影响
             if 'image' in item and item['image']:
                 content += f"![新闻图]({item['image']})\n"
-            # 标题做成可点击链接，不用逐个点跳转
+            # 标题做成可点击链接
             content += f"### [{title}]({url})\n"
-            # 加摘要，不用点进去就知道新闻大意
+            # 加摘要
             if 'summary' in item and item['summary']:
                 content += f"📝 摘要：{item['summary']}\n\n"
             else:
