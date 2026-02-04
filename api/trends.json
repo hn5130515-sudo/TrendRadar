@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T10:26:07.966914+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-02-04T12:44:12.068036+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -54,6 +54,17 @@
           "time_info": "[04时42分 ~ 07时32分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
           "url": "https://flash.jin10.com/detail/20260204042744936800",
           "source": "金十数据",
@@ -93,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -120,6 +131,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
@@ -130,6 +152,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -143,15 +177,15 @@
           "time_info": "[00时59分 ~ 01时58分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
@@ -223,17 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
@@ -320,7 +343,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -345,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "特朗普称普京兑现了“能源停火”承诺",
+          "url": "https://wallstreetcn.com/livenews/3049533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -513,11 +547,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -548,7 +583,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -575,6 +610,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时44分]"
+        },
+        {
           "title": "据伊朗努尔新闻：伊朗外交部发言人表示，关于与美国举行会谈地点的磋商正在进行中。",
           "url": "https://flash.jin10.com/detail/20260204042209933800",
           "source": "金十数据",
@@ -598,15 +644,15 @@
           "time_info": "[01时58分 ~ 03时08分]"
         },
         {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
+          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
+          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -619,17 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时35分]"
-        },
-        {
-          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
-          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "美方证实击落一架伊朗无人机",
@@ -899,7 +934,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -924,6 +959,17 @@
           "time_info": "[00时59分 ~ 06时35分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时44分]"
+        },
+        {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
@@ -936,17 +982,6 @@
           "time_info": "[00时59分 ~ 10时26分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 10时26分]"
-        },
-        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -954,8 +989,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时44分]"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时44分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -967,30 +1026,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 10时26分]"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 10时26分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -1015,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时35分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
@@ -1176,7 +1233,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1208,8 +1265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时44分]"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -1245,6 +1302,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -1383,8 +1462,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 12时44分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1434,7 +1513,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1464,6 +1543,46 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 05时40分]"
+        },
+        {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
+          "url": "https://wallstreetcn.com/livenews/3049309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时40分]"
+        },
+        {
+          "title": "日本国债收益率走高挤压美债空间 吸筹竞争或推升美国偿债成本",
+          "url": "https://flash.jin10.com/detail/20260204111146150800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
@@ -1494,24 +1613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
-          "url": "https://wallstreetcn.com/livenews/3049309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时40分]"
         }
       ]
     }
