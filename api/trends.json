@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:58:07.067191+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-02-11T18:59:12.257882+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -19,6 +19,19 @@
           "time_info": "[10时40分 ~ 16时56分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时40分 ~ 18时59分]"
+        },
+        {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
           "url": "https://news.ifeng.com/c/8qdRnTGCb87",
           "source": "凤凰网",
@@ -30,17 +43,15 @@
           "time_info": "[01时06分 ~ 07时42分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 18时59分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -74,17 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时40分 ~ 16时56分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
@@ -183,6 +183,18 @@
           "time_info": "[05时46分 ~ 07时42分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 18时59分]"
+        },
+        {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
           "url": "https://wallstreetcn.com/livenews/3053206",
           "source": "华尔街见闻-快讯",
@@ -242,17 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时06分 ~ 15时07分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
@@ -440,6 +441,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
           "url": "https://flash.jin10.com/detail/20260211022239268800",
           "source": "金十数据",
@@ -597,7 +609,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -605,11 +617,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 17时58分]"
+          "appearance_count": 10,
+          "time_info": "[10时40分 ~ 18时59分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -657,8 +670,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[13时06分 ~ 18时59分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -731,6 +744,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -817,8 +841,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖顾问沙姆哈尼表示，德黑兰的导弹能力是其红线。",
+          "url": "https://flash.jin10.com/detail/20260211183009729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
         {
           "title": "以总理访美，就伊朗弹道导弹问题与美沟通",
           "url": "https://wallstreetcn.com/livenews/3053387",
@@ -829,6 +864,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 18时59分]"
         },
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -855,15 +902,15 @@
           "time_info": "[10时40分 ~ 10时41分]"
         },
         {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "title": "伊朗军事实力如何",
+          "url": "https://www.toutiao.com/trending/7605529877277576740/",
           "source": "今日头条",
           "ranks": [
-            15
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时57分 ~ 17时58分]"
+          "time_info": "[18时58分 ~ 18时59分]"
         },
         {
           "title": "伊朗官员：若美伊核问题谈判成功，对话或将拓展至其他领域",
@@ -927,9 +974,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "伊朗最高领袖政治顾问：导弹能力不在谈判授权范围内",
+          "url": "https://wallstreetcn.com/livenews/3053672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
@@ -968,7 +1026,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -980,8 +1038,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[13时06分 ~ 18时59分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -994,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时42分]"
+        },
+        {
+          "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
+          "url": "https://flash.jin10.com/detail/20260211182619884800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
