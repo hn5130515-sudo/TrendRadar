@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:13:09.063870+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-16T22:46:06.422122+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时08分 ~ 21时13分]"
+          "appearance_count": 10,
+          "time_info": "[15时08分 ~ 22时46分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -573,7 +573,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -595,7 +595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -639,8 +639,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 21时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时03分 ~ 22时46分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -762,11 +762,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 21时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 22时46分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -793,8 +794,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[19时49分 ~ 22时46分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -827,6 +828,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 22时46分]"
+        },
+        {
           "title": "大摩：市场开始买美债了",
           "url": "https://www.toutiao.com/trending/7607327141323083327/",
           "source": "今日头条",
@@ -836,17 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时00分"
         }
       ]
     },
@@ -911,7 +912,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
