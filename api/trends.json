@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:59:49.388552+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-02-25T19:01:29.693655+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时58分 ~ 17时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时58分 ~ 19时01分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -131,6 +131,29 @@
           "time_info": "[15时55分 ~ 17时01分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时01分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时01分]"
+        },
+        {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
           "url": "https://flash.jin10.com/detail/20260225041411754800",
           "source": "金十数据",
@@ -162,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -239,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
@@ -361,6 +362,31 @@
           "time_info": "[05时59分 ~ 06时38分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 19时01分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 19时01分]"
+        },
+        {
           "title": "多数美国人称特朗普愈发反复无常",
           "url": "https://www.toutiao.com/trending/7609682757731647524/",
           "source": "今日头条",
@@ -373,18 +399,6 @@
           "time_info": "[14时06分 ~ 15时55分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时59分]"
-        },
-        {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
           "url": "https://wallstreetcn.com/livenews/3058275",
           "source": "华尔街见闻-快讯",
@@ -395,17 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时59分]"
         },
         {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
@@ -1067,7 +1070,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1099,6 +1102,19 @@
           "time_info": "[00时06分 ~ 08时04分]"
         },
         {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 19时01分]"
+        },
+        {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
           "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
           "source": "凤凰网",
@@ -1111,16 +1127,16 @@
           "time_info": "[10时31分 ~ 17时59分]"
         },
         {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
+          "title": "美大军压境伊朗为何不屈服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时57分 ~ 17时59分]"
+          "time_info": "[14时06分 ~ 19时01分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -1149,23 +1165,12 @@
             17,
             24,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 17时59分]"
-        },
-        {
-          "title": "美大军压境伊朗为何不屈服",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时06分 ~ 17时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 19时01分]"
         },
         {
           "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
@@ -1189,17 +1194,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 05时59分]"
-        },
-        {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "日本内阁官房副长官：确认一名日本国民在伊朗被拘留。",
@@ -1237,6 +1231,31 @@
           "time_info": "[08时04分 ~ 12时57分]"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时01分]"
+        },
+        {
+          "title": "美中情局公开教伊朗人“怎么找它”",
+          "url": "https://www.toutiao.com/trending/7610697188645158955/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 19时01分]"
+        },
+        {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
           "url": "https://wallstreetcn.com/livenews/3058276",
           "source": "华尔街见闻-快讯",
@@ -1247,18 +1266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时15分]"
-        },
-        {
-          "title": "美中情局公开教伊朗人“怎么找它”",
-          "url": "https://www.toutiao.com/trending/7610697188645158955/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时59分]"
         },
         {
           "title": "日媒：一名日本公民被伊朗拘留",
@@ -1292,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐前往日内瓦与美国举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260225180927161800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -1344,7 +1362,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -1514,24 +1532,13 @@
           "time_info": "[08时04分 ~ 14时06分]"
         },
         {
-          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
-          "url": "https://wallstreetcn.com/livenews/3058780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
           "url": "https://flash.jin10.com/detail/20260225173456379800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -1560,6 +1567,18 @@
           "time_info": "[04时41分 ~ 06时38分]"
         },
         {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时01分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
           "url": "https://wallstreetcn.com/livenews/3058355",
           "source": "华尔街见闻-快讯",
@@ -1578,11 +1597,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时01分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1748,7 +1768,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -1781,6 +1801,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时01分]"
+        },
+        {
           "title": "OpenAI扩员加速 前Roblox高管出任首席人力资源官",
           "url": "https://flash.jin10.com/detail/20260225071843022800",
           "source": "金十数据",
@@ -1790,17 +1822,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "OpenAI赢得诉讼：法官驳回xAI关于员工及代码被窃的指控",
