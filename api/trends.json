@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:59:01.743499+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-04-28T11:59:13.285301+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -20,6 +20,21 @@
           "time_info": "[00时43分 ~ 07时59分]"
         },
         {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 11时59分]"
+        },
+        {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
           "url": "https://www.toutiao.com/trending/7632821618738167818/",
           "source": "今日头条",
@@ -29,20 +44,6 @@
             4,
             2,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时59分]"
-        },
-        {
-          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
-          "url": "https://wallstreetcn.com/articles/3770985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -124,6 +125,28 @@
           "time_info": "[00时43分 ~ 06时57分]"
         },
         {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -168,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时59分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 11时59分]"
         },
         {
           "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
@@ -218,15 +253,26 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "伊朗战争丨伊朗拟推控制霍尔木兹海峡11条方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
@@ -262,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
@@ -324,6 +381,17 @@
           "time_info": "[05时56分 ~ 06时57分]"
         },
         {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
           "url": "https://flash.jin10.com/detail/20260428002707790800",
           "source": "金十数据",
@@ -366,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗外长感谢俄方声援和外交支持",
+          "url": "https://wallstreetcn.com/livenews/3095421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
@@ -418,7 +497,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -495,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -539,7 +618,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -613,7 +692,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -660,6 +739,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时59分]"
+        },
+        {
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -752,6 +842,28 @@
           "time_info": "[00时44分 ~ 02时06分]"
         },
         {
+          "title": "特朗普第三度与“死神”擦肩",
+          "url": "https://www.toutiao.com/trending/7633592087165799955/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
           "source": "澎湃新闻",
@@ -785,6 +897,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时57分]"
+        },
+        {
+          "title": "主持人读枪手宣言让特朗普破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "特朗普政府解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7632880889321488425/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "介文汲：特朗普刺杀案恐非最后一次",
+          "url": "https://www.toutiao.com/trending/7633026887648051236/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -848,7 +1004,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -966,7 +1122,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -985,11 +1141,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 07时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 11时59分]"
+        },
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 11时59分]"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -1003,15 +1172,15 @@
           "time_info": "[00时43分 ~ 06时57分]"
         },
         {
-          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357431",
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -1090,7 +1259,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
