@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T17:52:41.144504+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-05-19T20:43:17.128730+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -74,11 +74,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 20时43分]"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时52分]"
+          "time_info": "[17时52分 ~ 20时43分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -156,17 +169,6 @@
           "time_info": "08时12分"
         },
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "特朗普连发15张图分享“中国记忆”",
           "url": "https://news.ifeng.com/c/8tFAH622lBt",
           "source": "凤凰网",
@@ -211,6 +213,40 @@
           "time_info": "06时06分"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时43分]"
+        },
+        {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
           "url": "https://wallstreetcn.com/articles/3772466",
           "source": "华尔街见闻",
@@ -244,6 +280,28 @@
           "time_info": "[13时04分 ~ 13时05分]"
         },
         {
+          "title": "为何特朗普抛涉台“四不”说法",
+          "url": "https://www.toutiao.com/trending/7640681040356671526/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
+          "title": "美防长集会模仿特朗普引哄笑",
+          "url": "https://www.toutiao.com/trending/7640718233914048518/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
           "source": "澎湃新闻",
@@ -253,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "美防长模仿特朗普口音",
+          "url": "https://www.douyin.com/hot/2504566",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
@@ -330,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "特朗普暗示日本过头了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "美国白宫：特朗普政府将仿制药纳入特朗普处方药计划。",
@@ -511,7 +569,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -601,13 +659,24 @@
           "time_info": "[00时27分 ~ 06时06分]"
         },
         {
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "伊朗议员：伊朗“从未离开谈判桌”",
           "url": "https://wallstreetcn.com/livenews/3105946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -634,6 +703,41 @@
           "time_info": "04时33分"
         },
         {
+          "title": "伊朗最新和平方案细节曝光，核心诉求被指基本未改动",
+          "url": "https://flash.jin10.com/detail/20260519203536046800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 20时43分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 20时43分]"
+        },
+        {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://www.toutiao.com/trending/7640468019504857124/",
           "source": "今日头条",
@@ -645,29 +749,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时54分 ~ 06时06分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时52分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时52分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -690,6 +771,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
@@ -786,7 +889,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -819,9 +922,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "卡塔尔称美国应海湾国家呼吁暂缓了对伊朗发动新的打击",
+          "url": "https://wallstreetcn.com/livenews/3106044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "伊朗总统：对话不意味投降，将全力捍卫国家尊严",
@@ -992,8 +1106,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时06分 ~ 20时43分]"
+        },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3772473",
@@ -1004,18 +1131,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 04时33分]"
-        },
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时06分 ~ 17时52分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -1128,7 +1243,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1164,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "美股盘前，软件股上涨，微软上涨1.1%，ServiceNow上涨6.1%，Atlassian上涨4.5%，MongoDB上涨2.7%，Salesforce上涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3106030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。 “超大”市值科技股指数跌0.54%，报447.23点。",
@@ -1202,7 +1328,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克起诉OpenAI为何败诉",
@@ -1211,7 +1337,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1236,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "马斯克：将就美国陪审团对其起诉OpenAI一案的败诉裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260519203343719800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -1288,7 +1425,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1338,11 +1475,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 20时43分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1373,7 +1511,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1412,7 +1550,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1475,8 +1613,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 20时43分]"
         },
         {
           "title": "金价跳水 黑金首饰受追捧",
