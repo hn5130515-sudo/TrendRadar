@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-29T07:26:20.563768+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-29T11:58:05.514101+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 11时58分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
         {
           "title": "美国副总统万斯：（谈及伊朗）尚未达成协议，但已非常接近。",
           "url": "https://flash.jin10.com/detail/20260529055249847800",
@@ -76,17 +99,6 @@
           "time_info": "[00时56分 ~ 07时26分]"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时26分]"
-        },
-        {
           "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
           "url": "https://wallstreetcn.com/livenews/3110960",
           "source": "华尔街见闻-快讯",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时26分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
         },
         {
           "title": "贝森特：放松制裁取决于伊朗在核问题让步程度",
@@ -193,7 +216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -226,7 +249,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -259,7 +282,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -303,7 +326,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -336,7 +359,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -377,7 +400,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -402,6 +425,41 @@
           "time_info": "[05时58分 ~ 07时26分]"
         },
         {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 11时58分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260529003024162800",
           "source": "金十数据",
@@ -413,27 +471,27 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时26分]"
-        },
-        {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 11时58分]"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
@@ -453,7 +511,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -464,7 +522,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -561,19 +619,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 11时58分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -581,6 +628,17 @@
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 11时58分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -720,7 +778,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -739,7 +797,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI发布 OpenAI 的前沿治理框架。",
@@ -751,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -777,6 +846,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时38分]"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）上海金早盘价为982.78元/克，较国际金价(979.13元/克)，高3.65元/克",
+          "url": "https://flash.jin10.com/detail/20260529110136791800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -789,25 +897,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 11时58分]"
         }
       ]
     },
