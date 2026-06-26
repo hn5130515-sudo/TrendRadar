@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T19:12:59.042510+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-06-26T22:32:54.779612+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗重申国家安全与合法自卫权不容谈判",
+          "url": "https://flash.jin10.com/detail/20260626221711513800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -65,6 +76,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "遭美扣押伊朗货船上的22名船员将自巴基斯坦返伊",
+          "url": "https://wallstreetcn.com/livenews/3125365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
           "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
           "source": "凤凰网",
@@ -73,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 22时32分]"
         },
         {
           "title": "在伊华商：战争改变伊朗民众对中国的看法",
@@ -85,8 +107,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 22时32分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 19时12分]"
+          "time_info": "[19时12分 ~ 22时32分]"
+        },
+        {
+          "title": "伊朗重申国家安全与合法自卫权不容谈判",
+          "url": "https://wallstreetcn.com/livenews/3125361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
@@ -117,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -131,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -172,7 +206,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -208,6 +242,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "一周热榜精选：黄金打响4000关口争夺战，原油打回伊朗冲突前原形",
+          "url": "https://flash.jin10.com/detail/20260626215402402800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "阿联酋外交部长接到伊朗外长的电话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3125346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
@@ -268,7 +324,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -327,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
@@ -523,7 +590,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -563,6 +630,28 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股跌幅收窄，标普500指数短暂转涨，道指微幅下跌0.01%，纳指跌幅收窄至0.26%。",
+          "url": "https://flash.jin10.com/detail/20260626221022478800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
           "url": "https://wallstreetcn.com/livenews/3124857",
           "source": "华尔街见闻-快讯",
@@ -593,9 +682,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
@@ -642,6 +742,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "美股存储板块集体下跌，铠侠美股ADR跌超14%。",
+          "url": "https://flash.jin10.com/detail/20260626215422071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260626040602916800",
           "source": "金十数据",
@@ -675,6 +786,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
           "url": "https://flash.jin10.com/detail/20260626040107087800",
           "source": "金十数据",
@@ -689,7 +811,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "报道：OpenAI倾向于等到2027年再进行IPO",
@@ -704,6 +826,17 @@
           "time_info": "[05时47分 ~ 07时22分]"
         },
         {
+          "title": "据CNBC：OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。",
+          "url": "https://flash.jin10.com/detail/20260626220814583800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -713,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "据CNBC报道，OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。 此前，媒体周四报道称，OpenAI考虑推后至2027年再美国IPO。 6月稍早，OpenAI的CEO Altman已经告诉员工，可能会在未来一年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3125359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -859,61 +1003,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 16时02分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 19时12分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 19时12分]"
-        },
-        {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 19时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -933,11 +1024,23 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 22时32分]"
+        },
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -949,6 +1052,71 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 16时02分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 22时32分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 19时12分]"
+        },
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 19时12分]"
         }
       ]
     },
