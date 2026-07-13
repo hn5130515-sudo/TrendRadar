@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:32:32.906080+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-07-13T22:11:15.792516+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -52,6 +52,17 @@
           "time_info": "[00时06分 ~ 06时54分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时11分]"
+        },
+        {
           "title": "伊朗打击美国在中东地区目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
           "source": "澎湃新闻",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时59分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 18时32分]"
         },
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
@@ -130,6 +130,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 06时54分]"
+        },
+        {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时11分]"
         },
         {
           "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
@@ -191,19 +205,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 05时55分]"
-        },
-        {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 18时32分]"
         },
         {
           "title": "伊朗阿巴斯港和格什姆岛沿海地区传出爆炸声",
@@ -569,9 +570,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "伊朗驻英国大使：霍尔木兹海峡安全是双向道路。那些造成该地区这一危险局势的人，若真希望安全无害地通过霍尔木兹海峡，就必须重新考虑其立场。",
+          "url": "https://flash.jin10.com/detail/20260713214811884800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
@@ -602,7 +614,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -657,7 +669,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -684,6 +696,28 @@
           "time_info": "11时48分"
         },
         {
+          "title": "伊朗革命卫队：绝不允许霍尔木兹海峡脱离伊朗的主权管辖。若有船只再次违规，将面临果断惩戒；若美国试图固化违规行为，将再次受到惩罚。",
+          "url": "https://flash.jin10.com/detail/20260713214234259800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "伊朗军方称不会允许美国干涉霍尔木兹海峡 并警告地区国家勿配合美军",
+          "url": "https://wallstreetcn.com/livenews/3132932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "伊朗称摧毁位于巴林的美军无人机指挥控制中心",
           "url": "https://wallstreetcn.com/livenews/3132573",
           "source": "华尔街见闻-快讯",
@@ -693,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "伊朗外交部：要为伤亡伊朗人复仇",
+          "url": "https://flash.jin10.com/detail/20260713213849453800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "伊朗南部阿巴斯港传出巨响",
@@ -750,13 +795,35 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗革命卫队：我们将使美国受到前所未有的羞辱",
+          "url": "https://flash.jin10.com/detail/20260713213456081800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "伊朗：不会被迫为船只通行向敌人支付费用",
+          "url": "https://wallstreetcn.com/livenews/3132924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "也门警告伊朗与胡塞武装 耐心耗尽将回击",
           "url": "https://flash.jin10.com/detail/20260713174541658800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -772,13 +839,35 @@
           "time_info": "11时48分"
         },
         {
+          "title": "伊朗局势生变 交易员的“战事已过”投资剧本瞬间作废",
+          "url": "https://wallstreetcn.com/livenews/3132922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：霍尔木兹海峡已不可通行",
+          "url": "https://wallstreetcn.com/livenews/3132919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "伊朗阿巴斯港和格什姆岛附近传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260713174156485800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -789,7 +878,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -797,7 +886,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -818,8 +907,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 22时11分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -845,6 +934,17 @@
           "time_info": "[00时06分 ~ 06时54分]"
         },
         {
+          "title": "特朗普放话拟接管霍尔木兹海峡，索要巨额补偿，伊朗强硬回呛！",
+          "url": "https://flash.jin10.com/detail/20260713215044887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -856,6 +956,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 22时11分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -892,17 +1003,6 @@
           "time_info": "[14时56分 ~ 14时57分]"
         },
         {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -925,6 +1025,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "特朗普透露格雷厄姆去世前晚曾通话，当时“除了有点累一切正常”",
           "url": "https://flash.jin10.com/detail/20260712214956192800",
           "source": "金十数据",
@@ -945,13 +1056,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -959,9 +1103,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
@@ -974,6 +1129,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时59分]"
+        },
+        {
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
+          "title": "美股开盘：SK海力士ADR跌9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%ABADR%E8%B7%8C9%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "强劲美股首秀后遭抛售！SK海力士韩股暴跌逾10%，韩国央行紧急下场",
@@ -996,6 +1195,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260713214251101800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
