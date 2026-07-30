@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T08:03:36.710438+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-07-30T12:10:04.505845+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 12时10分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -30,6 +31,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 08时03分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 12时10分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -44,6 +57,41 @@
           "time_info": "[03时22分 ~ 05时00分]"
         },
         {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 12时10分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 12时10分]"
+        },
+        {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -53,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -121,27 +158,15 @@
           "time_info": "[03时22分 ~ 08时03分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 08时03分]"
-        },
-        {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 08时03分]"
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
@@ -150,7 +175,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -172,7 +197,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -238,7 +263,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -282,7 +307,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -301,7 +326,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -315,24 +340,39 @@
           "time_info": "[03时22分 ~ 06时08分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 12时10分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 12时10分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -343,22 +383,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 08时03分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -408,6 +435,17 @@
           "time_info": "[05时00分 ~ 06时08分]"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
           "url": "https://flash.jin10.com/detail/20260730051121325800",
           "source": "金十数据",
@@ -447,7 +485,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -477,7 +515,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
@@ -525,6 +563,50 @@
           "time_info": "[04时59分 ~ 08时03分]"
         },
         {
+          "title": "美军称结束对伊朗实施的新一轮大规模打击",
+          "url": "https://news.ifeng.com/c/8vB3CkgnAlM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "美媒称美军正在对伊朗进行空袭",
+          "url": "https://www.toutiao.com/trending/7668100922215501318/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
           "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
           "source": "凤凰网",
@@ -542,7 +624,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -553,9 +635,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "据伊朗媒体报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
+          "url": "https://wallstreetcn.com/livenews/3142115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
@@ -567,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "沙特刚与美国打击亲伊武装后急闯白宫，推动伊朗局势降温",
+          "url": "https://flash.jin10.com/detail/20260730112815022800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -579,11 +683,12 @@
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 12时10分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -592,7 +697,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -614,7 +719,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -628,6 +733,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -653,7 +808,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -667,34 +822,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
-          "url": "https://flash.jin10.com/detail/20260730041831120800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
-          "url": "https://flash.jin10.com/detail/20260730071758962800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         }
       ]
     },
